@@ -1,0 +1,8 @@
+  
+  The integral value is =    2518.077991023301000
+  
+ x1=      -5.000000000000000
+ x2=      10.000000000000000
+ dx=  1.000000000000000E-003
+ Calculated with Simpson method
+ This code is written by Moraad Biagooi at 1391/08/08
