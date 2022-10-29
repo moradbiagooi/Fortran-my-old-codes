@@ -1,0 +1,2 @@
+FTN95.EXE "C:\fortran\test-finit well\sub_QWell_RootFInder.f95" /NO_BANNER /VS7 /DELETE_OBJ_ON_ERROR /ERROR_NUMBERS /UNLIMITED_ERRORS /CHECKMATE /FPP /BINARY "CheckMate\Win32\sub_QWell_RootFInder.obj" 
+slink.exe -OUT:"CheckMate\Win32\well.exe" @"C:\fortran\test-finit well\link.lst"

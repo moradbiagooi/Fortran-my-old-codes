@@ -1,0 +1,2 @@
+FTN95.EXE "C:\fortran\newton_root\main_program.f95" /NO_BANNER /VS7 /DELETE_OBJ_ON_ERROR /ERROR_NUMBERS /UNLIMITED_ERRORS /CHECKMATE /FPP /BINARY "CheckMate\Win32\main_program.obj" 
+slink.exe -OUT:"CheckMate\Win32\newton_root.exe" @"C:\fortran\newton_root\link.lst"

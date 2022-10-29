@@ -1,0 +1,2 @@
+FTN95.EXE "C:\fortran\M.Biagooi-910721-fermiDirac-dist\main_fermi.f95" /NO_BANNER /VS7 /DELETE_OBJ_ON_ERROR /ERROR_NUMBERS /UNLIMITED_ERRORS /CHECKMATE /FPP /BINARY "CheckMate\Win32\main_fermi.obj" 
+slink.exe -OUT:"CheckMate\Win32\fermi_dirac.exe" @"C:\fortran\M.Biagooi-910721-fermiDirac-dist\link.lst"
