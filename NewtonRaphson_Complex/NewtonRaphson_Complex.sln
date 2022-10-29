@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{5E53CCA8-D880-4964-8B8C-B3DB057578E7}") = "NewtonRaphson_Complex", "NewtonRaphson_Complex\NewtonRaphson_Complex.pvfproj", "{ACB4F769-57CE-4F2B-BF59-4B597314AFB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB4F769-57CE-4F2B-BF59-4B597314AFB9}.Debug|x64.ActiveCfg = Debug|x64
+		{ACB4F769-57CE-4F2B-BF59-4B597314AFB9}.Debug|x64.Build.0 = Debug|x64
+		{ACB4F769-57CE-4F2B-BF59-4B597314AFB9}.Release|x64.ActiveCfg = Release|x64
+		{ACB4F769-57CE-4F2B-BF59-4B597314AFB9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

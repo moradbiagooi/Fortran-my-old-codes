@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!--PGI Visual Fortran Project File-->
+<PGIproject Version="2.0">
+	<General ProjectIdGuid="{065F21CC-B50A-4712-A0CA-F9D5C765DCB0}"/>
+	<Configurations>
+		<Config Name="Debug|x64" OutDir="$(PlatformName)\$(ConfigurationName)" IntDir="$(PlatformName)\$(ConfigurationName)" CfgTyp="0" DbgEnvMerge="0" DbgMPI="0" DbgFmt="0" Optzn="0" LinkOutput="$(OutDir)\$(ProjectName).exe"/>
+		<Config Name="Release|x64" OutDir="$(PlatformName)\$(ConfigurationName)" IntDir="$(PlatformName)\$(ConfigurationName)" CfgTyp="0" DbgEnvMerge="0" DbgMPI="0" LinkOutput="$(OutDir)\$(ProjectName).exe"/>
+	</Configurations>
+	<Files>
+		<Folder Name="Include Files">
+		</Folder>
+		<Folder Name="Resource Files">
+		</Folder>
+		<Folder Name="Source Files">
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\main_CN_LU_HD.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\sub_A_Maker_CN.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\sub_B_maker_CN.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\Sub_LU_Maker.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\sub_PressEnter.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\Sub_X0_maker_CN.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\sub_X_Maker.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+			<File Name="..\..\Good Codes\M.Biagooi_All of codes\M.Biagooi-911011-HeatDispersion\M.Biagooi-911011-HeatDispersion\sub_Y_Maker.f90" ProjRelPath="T" IsFixedFormat="F" IsIncludeFile="F">
+				<Config Name="Debug|x64"/>
+				<Config Name="Release|x64"/>
+			</File>
+		</Folder>
+	</Files>
+	<ProjStartupServices/>
+	<Globals/>
+</PGIproject>
